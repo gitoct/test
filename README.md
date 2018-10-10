@@ -13,7 +13,7 @@ git push origin my-new-branch
 
 # Sync Fork
 
-git remote add upstream https://github.com/lingonsaft/hacktoberfest
+git remote add upstream
 
 git remote -v
 
